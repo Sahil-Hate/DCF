@@ -1,0 +1,98 @@
+com/vatsal/android/digitaldetox/receiver/CustomUsageStats.java
+ com.vatsal.android.digitaldetox.receiver.CustomUsageStats
+com/vatsal/android/digitaldetox/fragments/ViewPagerFragment.java
+ com.vatsal.android.digitaldetox.fragments.ViewPagerFragment
+ com.vatsal.android.digitaldetox.fragments.ViewPagerFragment$PagerAdaptor
+com/vatsal/android/digitaldetox/utils/MyApplication.java
+ com.vatsal.android.digitaldetox.utils.MyApplication
+com/vatsal/android/digitaldetox/database/Database.java
+ com.vatsal.android.digitaldetox.database.Database
+com/vatsal/android/digitaldetox/receiver/MonitorBootReceiver.java
+ com.vatsal.android.digitaldetox.receiver.MonitorBootReceiver
+com/vatsal/android/digitaldetox/database/Dao.java
+ com.vatsal.android.digitaldetox.database.Dao
+com/vatsal/android/digitaldetox/models/CustomUsageEvents.java
+ com.vatsal.android.digitaldetox.models.CustomUsageEvents
+com/vatsal/android/digitaldetox/activities/AppUsageStatisticsActivity.java
+ com.vatsal.android.digitaldetox.activities.AppUsageStatisticsActivity
+ com.vatsal.android.digitaldetox.activities.AppUsageStatisticsActivity$1
+com/vatsal/android/digitaldetox/adapters/StatsAdapter.java
+ com.vatsal.android.digitaldetox.adapters.StatsAdapter
+com/vatsal/android/digitaldetox/utils/Tools.java
+ com.vatsal.android.digitaldetox.utils.Tools
+com/vatsal/android/digitaldetox/database/DataBaseHelper.java
+ com.vatsal.android.digitaldetox.database.DataBaseHelper
+com/vatsal/android/digitaldetox/models/DisplayEventEntity.java
+ com.vatsal.android.digitaldetox.models.DisplayEventEntity
+com/vatsal/android/digitaldetox/fragments/AppUsageService.java
+ com.vatsal.android.digitaldetox.fragments.AppUsageService
+com/vatsal/android/digitaldetox/utils/Constants.java
+ com.vatsal.android.digitaldetox.utils.Constants
+com/vatsal/android/digitaldetox/adapters/ScrollAdapter.java
+ com.vatsal.android.digitaldetox.adapters.ScrollAdapter
+com/vatsal/android/digitaldetox/receiver/BootCompletedReceiver.java
+ com.vatsal.android.digitaldetox.receiver.BootCompletedReceiver
+com/vatsal/android/digitaldetox/activities/NotificationActivity.java
+ com.vatsal.android.digitaldetox.activities.NotificationActivity
+ com.vatsal.android.digitaldetox.activities.NotificationActivity$1
+ com.vatsal.android.digitaldetox.activities.NotificationActivity$2
+ com.vatsal.android.digitaldetox.activities.NotificationActivity$3
+ com.vatsal.android.digitaldetox.activities.NotificationActivity$4
+ com.vatsal.android.digitaldetox.activities.NotificationActivity$5
+com/vatsal/android/digitaldetox/utils/DisplaySize.java
+ com.vatsal.android.digitaldetox.utils.DisplaySize
+com/vatsal/android/digitaldetox/BuildConfig.java
+ com.vatsal.android.digitaldetox.BuildConfig
+com/vatsal/android/digitaldetox/adapters/UsageListAdapter.java
+ com.vatsal.android.digitaldetox.adapters.UsageListAdapter
+ com.vatsal.android.digitaldetox.adapters.UsageListAdapter$ViewHolder
+com/vatsal/android/digitaldetox/utils/Common.java
+ com.vatsal.android.digitaldetox.utils.Common
+com/vatsal/android/digitaldetox/recycler/TotalItem.java
+ com.vatsal.android.digitaldetox.recycler.TotalItem
+ com.vatsal.android.digitaldetox.recycler.TotalItem$1
+ com.vatsal.android.digitaldetox.recycler.TotalItem$ItemFactory
+ com.vatsal.android.digitaldetox.recycler.TotalItem$ViewHolder
+com/vatsal/android/digitaldetox/services/NotificationService.java
+ com.vatsal.android.digitaldetox.services.NotificationService
+com/vatsal/android/digitaldetox/utils/FormatEventsViewModel.java
+ com.vatsal.android.digitaldetox.utils.FormatEventsViewModel
+ com.vatsal.android.digitaldetox.utils.FormatEventsViewModel$1
+ com.vatsal.android.digitaldetox.utils.FormatEventsViewModel$2
+ com.vatsal.android.digitaldetox.utils.FormatEventsViewModel$3
+com/vatsal/android/digitaldetox/services/PopulateDatabaseService.java
+ com.vatsal.android.digitaldetox.services.PopulateDatabaseService
+ com.vatsal.android.digitaldetox.services.PopulateDatabaseService$1
+ com.vatsal.android.digitaldetox.services.PopulateDatabaseService$2
+ com.vatsal.android.digitaldetox.services.PopulateDatabaseService$3
+com/vatsal/android/digitaldetox/utils/AppList.java
+ com.vatsal.android.digitaldetox.utils.AppList
+com/vatsal/android/digitaldetox/activities/OptionsActivity.java
+ com.vatsal.android.digitaldetox.activities.OptionsActivity
+com/vatsal/android/digitaldetox/models/AppFilteredEvents.java
+ com.vatsal.android.digitaldetox.models.AppFilteredEvents
+com/vatsal/android/digitaldetox/fragments/MostAppUsageStatisticsFragment.java
+ com.vatsal.android.digitaldetox.fragments.MostAppUsageStatisticsFragment
+ com.vatsal.android.digitaldetox.fragments.MostAppUsageStatisticsFragment$1
+ com.vatsal.android.digitaldetox.fragments.MostAppUsageStatisticsFragment$2
+ com.vatsal.android.digitaldetox.fragments.MostAppUsageStatisticsFragment$AlphabeticComparator
+ com.vatsal.android.digitaldetox.fragments.MostAppUsageStatisticsFragment$AsyncTaskRunner
+ com.vatsal.android.digitaldetox.fragments.MostAppUsageStatisticsFragment$StatsUsageInterval
+ com.vatsal.android.digitaldetox.fragments.MostAppUsageStatisticsFragment$timeInForegroundComparator
+com/vatsal/android/digitaldetox/fragments/AppDetailFragment.java
+ com.vatsal.android.digitaldetox.fragments.AppDetailFragment
+ com.vatsal.android.digitaldetox.fragments.AppDetailFragment$1
+com/vatsal/android/digitaldetox/adapters/MostUsageListAdapter.java
+ com.vatsal.android.digitaldetox.adapters.MostUsageListAdapter
+ com.vatsal.android.digitaldetox.adapters.MostUsageListAdapter$1
+ com.vatsal.android.digitaldetox.adapters.MostUsageListAdapter$1$1
+ com.vatsal.android.digitaldetox.adapters.MostUsageListAdapter$ViewHolder
+com/vatsal/android/digitaldetox/services/Monitor.java
+ com.vatsal.android.digitaldetox.services.Monitor
+ com.vatsal.android.digitaldetox.services.Monitor$1
+ com.vatsal.android.digitaldetox.services.Monitor$1$1
+com/vatsal/android/digitaldetox/fragments/AppUsageStatisticsFragment.java
+ com.vatsal.android.digitaldetox.fragments.AppUsageStatisticsFragment
+ com.vatsal.android.digitaldetox.fragments.AppUsageStatisticsFragment$1
+ com.vatsal.android.digitaldetox.fragments.AppUsageStatisticsFragment$2
+ com.vatsal.android.digitaldetox.fragments.AppUsageStatisticsFragment$3
